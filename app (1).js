@@ -3,7 +3,7 @@
 // ─────────────────────────────────────────────
 
 const CONFIG = {
-  APPS_SCRIPT_URL: "https://script.google.com/macros/s/AKfycbxd7ehlRiwuC_fFET1R3TvzB8aP0VajL6cmBB6eCPy3Gvje2wPCpJJwGAcbwrJCLkrFag/exec",
+  APPS_SCRIPT_URL: "https://script.google.com/macros/s/AKfycbyax36uGU2VwGRtgY-Cyv9yGivd7uvRWXfqFwBOR9s7ZIH_AIE04htWN6baYyTKSL7Z8A/exec",
   BACKEND_LIVE: true,
 };
 

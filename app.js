@@ -5,10 +5,10 @@
 const CONFIG = {
   // Your Google Apps Script Web App URL
   // Deploy a Google Apps Script that reads/writes your sheet and paste the URL here
-  APPS_SCRIPT_URL: "https://script.google.com/macros/s/YOUR_SCRIPT_ID_HERE/exec",
+  APPS_SCRIPT_URL: "https://script.google.com/macros/s/AKfycbyuGiXi5K-_eEWfx9yIDkCKb1z-qoKENmLOEzQhQnIB3mYJG9KYJtJHlb_PfVWWMQ8aBw/exec",
 
   // Set to true once your backend is live
-  BACKEND_LIVE: false,
+  BACKEND_LIVE: true,
 };
 
 // ─────────────────────────────────────────────
